@@ -1,0 +1,56 @@
+openedx_filters/authentication/filters.py
+  s_36ffe2f7109ad6::t_7525f503eca98a 4-6
+  s_36ffe2f7109ad6::t_61ea130c8183dd 8-10
+  s_36ffe2f7109ad6::t_024e62d240fac1 7
+  s_36ffe2f7109ad6::t_3822319bf6071d 1-3,11-291
+openedx_filters/authentication/types.py
+  s_74b78dc9b2068e::t_ce9cc9223578b6 17,19,25-43,46-54,66-67
+  s_74b78dc9b2068e::t_0eb5ed92dad7a1 59
+  s_74b78dc9b2068e::t_dcb93dd7911538 1,3,12-13,15-16,18,44,57-58,60-61,71-74
+  s_74b78dc9b2068e::t_545af633fc2af8 5,20-24,45,55-56,62-65,68-70
+  s_36ffe2f7109ad6::t_177039e5ce4bc6 2,4,6-11,14,75-99
+openedx_filters/tests/test_tooling.py
+  s_74b78dc9b2068e::t_32ec8b426818eb 36,45
+openedx_filters/authentication/tests/test_filters.py
+  s_74b78dc9b2068e::t_d465bc970bd234 1-15,17-162
+  s_74b78dc9b2068e::t_5ca1b441574388 16
+MANIFEST.in
+  s_74b78dc9b2068e::t_52371cbe065762 6
+openedx_filters/filters.py
+  s_74b78dc9b2068e::t_fafcc78b295001 69-71
+  s_74b78dc9b2068e::t_ae91200301659f 6
+  s_74b78dc9b2068e::t_50672c6f050e9d 58-62
+  s_74b78dc9b2068e::t_c12c4dc62ca262 93
+  s_74b78dc9b2068e::t_d631270dbb8309 72
+setup.py
+  s_74b78dc9b2068e::t_6fcf57a3ca0287 148
+docs/reference/filters.rst
+  s_36ffe2f7109ad6::t_aac681afe443b6 26-28
+  s_36ffe2f7109ad6::t_603cac43b477b9 33-34
+  s_36ffe2f7109ad6::t_1f407f31f9ac55 23-25
+  s_36ffe2f7109ad6::t_a77c0547a4f665 29-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "673a94846bf23d48e1087842f00dd30b3509b4d0",
+  "prompts": {},
+  "sessions": {
+    "s_36ffe2f7109ad6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a37d08a6-99bd-422e-bf12-daa8d1671caf",
+        "model": "claude-opus-5"
+      },
+      "human_author": null
+    },
+    "s_74b78dc9b2068e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "77e884c1-0be7-4c7b-9b03-0e8499c011b2",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Troy Sankey <tsankey@2u.com>"
+    }
+  }
+}
